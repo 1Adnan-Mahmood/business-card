@@ -1,0 +1,22 @@
+.ok{    
+    width:150px; 
+    margin: 10px;
+}
+.P:hover{
+    background-color: rgb(13, 251, 80);
+}
+
+
+body{
+width: 400px;
+    margin:0 auto;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding : 20px;
+text-shadow: 2px 2PX rgb(98, 196, 182);
+}
+.okey{ color:#2b2839 ;
+    display: flex;
+    text-align: center space-around; 
+   background: #ad7059;
+      border-bottom:6px solid #41b8eb;
+      border-radius: 20px;}
